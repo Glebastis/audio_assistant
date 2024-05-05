@@ -1,0 +1,6 @@
+numpy
+sounddevice
+scipy
+wavio
+pydub
+soundfile
